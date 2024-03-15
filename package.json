@@ -1,0 +1,31 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B-celebi/PCAT.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "bootstrap"
+  ],
+  "author": "com.batuhancelebi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B-celebi/PCAT/issues"
+  },
+  "homepage": "https://github.com/B-celebi/PCAT#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
